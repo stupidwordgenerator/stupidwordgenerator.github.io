@@ -1,6 +1,6 @@
 {
-    "name": "random_word_generator",
-    "short_name": "random_word_generator",
+    "name": "web",
+    "short_name": "web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
